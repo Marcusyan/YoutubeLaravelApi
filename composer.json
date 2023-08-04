@@ -4,7 +4,7 @@
     "keywords": ["alchemyguy", "YoutubeLaravelApi", "Youtube LiveStream", "php", "Youtube Backup", "Youtube Video", "Youtube Api V3", "laravel", "Oauth", "google api", "Youtube Channel"],
     "homepage": "https://github.com/alchemyguy/YoutubeLaravelApi",
     "require": {
-        "php": "~5.6|~7.0",
+        "php": "~5.6|~7.0|^8.1",
         "google/apiclient": "^2.0"
     },
     "require-dev": {
